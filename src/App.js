@@ -4,7 +4,7 @@ import Text from './Text';
 import { BrowserRouter as Router, Route, Routes} from 'react-router-dom';
 import CreateEvent from './CreateEvent';
 import ChatComponent from './ChatComponent';
-//css stuff
+
 function App() {
   document.title = 'Descent';
   return (
